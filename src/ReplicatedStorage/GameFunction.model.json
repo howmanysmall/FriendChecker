@@ -1,0 +1,10 @@
+{
+	"$className": "RemoteFunction",
+	"ClassName": "RemoteFunction",
+	"$properties": {
+		"Name": {
+			"Type": "String",
+			"Value": "GameFunction"
+		}
+	}
+}
